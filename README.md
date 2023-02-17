@@ -2,7 +2,7 @@
 
 **YIHAO LARRY ZHONG**
 
-Link to project: https://glitch.com/edit/#!/endurable-sunset-redcurrant?path=README.md%3A1%3A0
+Link to project:
 https://endurable-sunset-redcurrant.glitch.me/
 
 ## Functionality
